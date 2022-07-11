@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = laurenbhunter00@gmail.com
+	name = Lauren Hunter
